@@ -80,3 +80,11 @@ Install, index and run!
     
       [+] Running Tomcat server ...
       [+] Check on http://localhost:8080/weshgrokit/
+
+
+
+## Screenshots
+
+<p align="center">
+  <img alt="screenshot" src="screenshot.png">
+</p>

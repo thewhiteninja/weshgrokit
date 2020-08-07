@@ -6,7 +6,7 @@
 [![Language: Python](https://img.shields.io/badge/Language-Python-brightgreen.svg?tyle=flat-square)](#)
 <br />
 
-Weshgrokit a tool inspired by the no more maintained [Grokit](https://github.com/raghusesha/grokit) project.
+Weshgrokit is a tool inspired by the no more maintained [Grokit](https://github.com/raghusesha/grokit) project.
 Like Grokit, you can deploy an Opengrok but only with 3 commands and from scratch.
 Even Java is not needed to be installed first
 

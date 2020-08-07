@@ -83,7 +83,7 @@ Install, index and run!
 
 
 
-## Screenshots
+## Screenshot
 
 <p align="center">
   <img alt="screenshot" src="screenshot.png">
